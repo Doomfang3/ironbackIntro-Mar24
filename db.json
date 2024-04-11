@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "firstname": "Diego",
+      "dog": "Josafa",
+      "hobbies": [
+        "Singing",
+        "Reading the bible"
+      ],
+      "id": 3
+    },
+    {
+      "firstname": "Felipe",
+      "dog": "no",
+      "hobbies": [
+        "data",
+        "ai"
+      ],
+      "id": 4
+    },
+    {
+      "firstname": "sdf",
+      "dog": "wser",
+      "hobbies": [
+        "sdf",
+        "sdf",
+        "sdf",
+        ""
+      ],
+      "id": 6
+    },
+    {
+      "firstname": "Fabio",
+      "dog": "No",
+      "hobbies": [
+        "dance",
+        "pasteis"
+      ],
+      "id": 7
+    },
+    {
+      "firstname": "James",
+      "dog": "Ellie",
+      "hobbies": [
+        "Gaming",
+        "gardening",
+        "Gardening",
+        "Music"
+      ],
+      "id": 8
+    }
+  ],
+  "playSessions": []
+}
